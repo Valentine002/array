@@ -42,3 +42,6 @@ Complexity
 Time: O(n log n) because of sorting
 
 Space: O(n) for the pairs
+
+
+I have the runnable_code.py that includes the hardcorded input for it to run and show output, that file call the functions and provide the test data directly in the code
